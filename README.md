@@ -1,6 +1,6 @@
 # Iaredell
  
- > Authors: [Nicole Carter (ncart018)](https://github.com/nicolec702), [Fadak Abdullah (@fabdu013)](https://github.com/faduckie), [Steven Truong (@struo025)](https://github.com/Steven-Eon), [Victor Sandoval (@vsand012)](https://github.com/VMSandoval25)
+ > Authors: [Fadak Abdullah (@fabdu013)](https://github.com/faduckie), [Steven Truong (@struo025)](https://github.com/Steven-Eon), [Victor Sandoval (@vsand012)](https://github.com/VMSandoval25)
 
 
 ## Project Description
