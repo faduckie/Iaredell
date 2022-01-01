@@ -1,0 +1,39 @@
+NARRATOR: You accept the job and make your way to the farm outside of town
+NARRATOR: You spot the farmer working on some crops
+FARMER: Good afternoon, young one. Have you spotted my request for help?
+PLAYER: Yes. I've come to assist with your...demon problem.
+FARMER: These pesky devils have been wrecking my crops every night, 
+FARMER: and before I can catch them in the act they always disappear.
+PLAYER: If you've never caught them in the act, how do you know it was them?
+FARMER: Because they all make the same demonic noises, 
+FARMER: and I know the sound of my crops being torn from their roots.
+PLAYER: Alright, I’ll help.
+NARRATOR: As night falls you spot two demons making their way toward the farmers crops. 
+NARRATOR: You wait and see what they plan to do.
+NARRATOR: Just before they can destroy the old man's crops, you leap out and attack
+---------------
+BATTLE SEQUENCE
+Demon 1 - Lvl 1
+Demon 2 - Lvl 1
+---------------
+NARRATOR: You approach the farmer
+PLAYER: I took care of the demons. They should not bother you anymore.
+FARMER: Thank you kind stranger.
+NARRATOR: The farmer tries to offer you what little gold he has
+------------------------
+OPTION 1: Accept the coin
+PLAYER: That's what I'm talking about!
+------------------------
+OPTION 2: Reject his coin
+PLAYER: Keep it. You need it more than I. 
+PLAYER: May I request another form of payment instead?
+NARRATOR: The farmer looks at you confused.
+FARMER: Whatever do you mean?
+-------------------------
+PLAYER: What can you tell me about those creatures?
+NARRATOR: The farmer looks down thoughtfully before responding.
+FARMER: I do recall hearing those pestering things talking about 
+FARMER: a demon's nest nearby. I didn't quite catch where 
+FARMER: but they have such a unique sound and smell. 
+FARMER: I'm sure you'll find them. Please, rid this town of such pests.
+PLAYER: Thank you, sir. You've been of great help.

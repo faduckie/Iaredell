@@ -1,0 +1,21 @@
+NARRATOR: You spot another poster, this one from the town's City Watch. 
+NARRATOR: It's a bounty for a horned creature that attacked one of the townspeople.
+NARRATOR: You grab the poster from the board, taking it for reference, 
+NARRATOR: and set out to the location of the creature's last known whereabouts.
+NARRATOR: As you wander around the area, you hear a strange noise coming from all around you. 
+NARRATOR: You can’t quite pinpoint where the source is. A dreadful feeling fills your being. 
+NARRATOR: Before you can form another thought, something swings at you with such speed, 
+NARRATOR: it sends you flying at least 20 feet, knocking the wind out of you.
+-------------
+BATTLE SCENE
+Demon - Lvl 2
+-------------
+NARRATOR: As the two horned creature falls to the ground, lifeless, 
+NARRATOR: you hear rustling in the bushes. 
+NARRATOR: Unsure of how many of these creatures there may be, 
+NARRATOR: you hide yourself among the trees and watch.
+NARRATOR: A single demon approaches the body of whom you just defeated. 
+NARRATOR: In shock, it lets out a high pitched squeal.
+DEMON: I must report this to the others…
+NARRATOR: Hearing this, you decide you've found a new lead, 
+NARRATOR: and begin to follow the demon back to the 'others'

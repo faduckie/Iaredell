@@ -1,0 +1,13 @@
+NARRATOR: You arrive at a new town, hoping to gather any information from the locals. 
+NARRATOR: You figure those creatures are not the type to hit a single town then go into hiding forever.
+----------------------------------
+OPTION 2: Approach the bounty board and look for a job
+NARRATOR: Before you attempt to gather information, you think it's best to try and gain people's trust first. 
+NARRATOR: What better way to gain townspeople's trust than to do some good for the town
+NARRATOR: You spot a request from a farmer right outside of town. 
+NARRATOR: He requires assistance in getting rid of some petty demons
+------------------------------------
+OPTION 2A:Accept the job
+go to farmerJob.txt
+OPTION 2B:Look for a different job
+go to bountyJob.txt

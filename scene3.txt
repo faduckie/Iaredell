@@ -1,0 +1,58 @@
+NARRATOR: As you approach the demons' den, you spot two demons 
+NARRATOR: standing guard at the entrance. You hide in the nearby 
+NARRATOR: shrubbery for a while, wondering if they ever switch out 
+NARRATOR: the guards, or perhaps waiting to find another way in.
+NARRATOR: After an hour of waiting, you find yourself unable to 
+NARRATOR: find another way in. Your only choice is to face them head on.
+-------------------------------------------------------
+OPTION 1: Attempt to talk to them
+NARRATOR: You walk out of the shrubbery and toward the two creatures.
+NARRATOR: They, unable to detect your intent, become hostile
+-------------------------------------------------------
+OPTION 2: Attack
+NARRATOR: You decide that talking won't do you any good,
+NARRATOR: so your best course of action is to attack now, talk later
+------------------------------------------------------
+-------------BATTLE SCENE-------------------
+1 Demon - Level 3
+1 Demon - Level 3
+-------------------------------------------------------
+NARRATOR: After defeating the two guards at the entrance,
+NARRATOR: you attempt to sneak into the den hoping you 
+NARRATOR: will find the demon responsible for all of the mayhem
+NARRATOR: unfortunately, you not only  underestimated the
+NARRATOR: number of demons within but you also were unaware 
+NARRATOR: that your scent, that of a human, is very, 
+NARRATOR: very distinct to their noses
+NARRATOR: You are instantly spotted.
+NARRATOR: Your only objective now is to survive
+-------------BATTLE SCENE-----------------------
+Demons leveled 1-6
+----------------------------------------------------------------
+IF DONT YOU SURVIVE:
+NARRATOR: Despite your best efforts, you were no match for the devils inside of that den.
+NARRATOR: You spent your last breaths fighting for the good of the people.
+NARRATOR: Unfortunately, they were simply too powerful, and you, not strong enough.
+-----------------------------------------------------------------
+IF YOU DO SURVIVE:
+NARRATOR: As you finish fighting off the swarms of demons,
+NARRATOR: you find yourself standing in front of the horrid creature that first attacked you
+NARRATOR: It seems angrier than before, 
+NARRATOR: but no matter, this is what you have been waiting for
+-----------BATTLE SCENE------------------
+Final Demon - Level 7
+-----------------------------------------------------------------
+IF YOU DO NOT SURVIVE FINAL BOSS:
+NARRATOR: You fought bravely, and with honor.
+NARRATOR: But facing the most powerful demon in the region
+NARRATOR: proved to be too much for even you, one of the greatest warriors around
+NARRATOR: Maybe if you hadn't been so eager you could have proven to be victorious,
+NARRATOR: Maybe in another life…
+------------------------------------------------------------------
+IF YOU DO SURVIVE:
+NARRATOR: You fought with courage and honor
+NARRATOR: and you defeated the very thing you set out to defeat
+NARRATOR: You helped protect the people of Iaredell and the surrounding region
+NARRATOR: Thanks to your bravery, people no longer lived in fear
+NARRATOR: Be proud of yourself...warrior
+

@@ -1,0 +1,16 @@
+NARRATOR: The clanking of metal fills your ears. 
+NARRATOR: You turn your head to find your mentor standing in front of you, 
+NARRATOR: his arm extended, a weapon in his hand. 
+MENTOR: You've gotten rather rusty. Did you forget what I've taught you?
+NARRATOR: He swings his sword at you
+NARRATOR: Press [1] to defend
+MENTOR: Your defensive stance could use some work.
+NARRATOR: Your Mentor stands awaiting your action
+NARRATOR: Press [2] to attack
+MENTOR: Now that looks more like what I taught you.
+NARRATOR: Press [3] to use your special attack
+MENTOR: Where was this kind of energy in the beginning?
+NARRATOR: Press [4] to use your special move
+MENTOR: You've gotten good, but not good enough.
+NARRATOR: You look at your mentor, confused at the comment made when suddenly you feel a sharp pain shoot up your side.
+NARRATOR: You are rendered unconscious.

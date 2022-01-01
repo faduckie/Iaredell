@@ -1,0 +1,68 @@
+NARRATOR: The Hero walked down the dreary Iaredell, the rain glistening on cobblestone streets which reflected candlelit homes. 
+NARRATOR: Two lazy guards stood at the gates dozing off wishing for a sunnier day. 
+NARRATOR: The guards let the Hero through and he sets forth onto the kingdom's roads. 
+NARRATOR: While on the path the Hero notices a disheveled little girl curled up on the side of the road.
+OPTION 1: LEAVE HER
+NARRATOR: As you move on, you feel a tug at your clothes. 
+NARRATOR: It's the girl from the road looking up at you with tear filled eyes.
+OPTION 2: APPROACH THE CHLID
+LITTLE GIRL: Please, help me. My village was attacked. Can you help me find my parents?
+OPTION 2A:OFFER HELP
+LITTLE GIRL: Thank the gods! The village isn't far from here. I'll take you to it.
+OPTION 2B:OFFER HELP FOR COIN
+LITTLE GIRL: My parents are very wealthy, they will be able to pay you if you can help me find them.
+NARRATOR: The hero and the young girl set off onto the road. 
+NARRATOR: The two traveled for half a day before arriving at the ruins of a village. 
+NARRATOR: Wooden buildings with thatched roofs which once stood were now burnt out husks with their residents reduced to ash.
+OPTION 1: INVESTIGATE THE TOWN
+NARRATOR: You continue forward, searching for any survivors amongst the rubble. 
+NARRATOR: Unfortunately no one appeared to have survived the attack.
+PLAYER: No human would have been able to cause this level of destruction. 
+PLAYER: Whatever did may still be around. I better be careful.
+NARRATOR: You turn to the little girl that led you here
+OPTION 2: QUESTION THE GIRL
+PLAYER: Is this how your village was when you escaped?
+NARRATOR: The little girl doesn't look at you. Her eyes are hidden by her unkempt hair. She begins to cry. 
+OPTION 2A:COMFORT HER
+NARRATOR: You get closer attempting to comfort her. 
+NARRATOR: Upon further inspection you notice that she is not crying, but rather laughing. 
+NARRATOR: Her eyes, wide open, have turned a terrifying shade of red.
+PLAYER: What the-
+OPTION 2B:KEEP YOUR DISTANCE 
+NARRATOR: You keep your distance. 
+NARRATOR: You were never one to know what to do when someone began to cry,
+NARRATOR: so you do the only thing that you know to do. You ask again.
+PLAYER: Little girl, I know this is difficult, 
+PLAYER: but could you please tell me if the town looked 
+PLAYER: like this before you came to look for help?
+NARRATOR: The little girl continues to avoid your eye contact. Her body seems to radiate an aura you haven't felt before. 
+NARRATOR: You feel uneasy.
+NARRATOR: The little girl finally lifts her eyes up, brushing her hair out of her face. 
+NARRATOR: A menacing grimace takes over her face. Her eyes, glowing red. 
+NARRATOR: Her body begins to shift and change, growing larger and more horrifying. You stumble backwards horrified.
+NARRATOR: The once harmless little girl has transformed into an ugly horned creature right before your eyes. 
+NARRATOR: Before you can process what just occurred, the creature swings at you.
+NARRATOR: You wake up in cold sweat, shooting upward. 
+NARRATOR: You find yourself laying on a cot in a familiar setting. 
+NARRATOR: This was the 5th time this week you've experienced that nightmare.
+MENTOR: Oh! Look who finally decided to wake up. 
+MENTOR: You should've been able to take that blow without any issues..
+PLAYER: ...
+MENTOR: What's wrong with you?
+PLAYER: It happened again. It's been weeks since those events and they're still haunting me. 
+PLAYER: I have to go find that...that thing.
+MENTOR: You're not fit to be facing such creatures. 
+MENTOR: Still, it would be good for you to have some experience.
+PLAYER: Thank you for your help. You have done more than anyone else would be willing.
+MENTOR: Be careful out there. Not everything will be as forgiving as your old mentor. 
+NARRATOR: And with that, you set out on your journey to find the creature that attacked you that one rainy evening.
+
+
+
+
+
+
+
+
+
+
